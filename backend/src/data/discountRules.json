@@ -1,0 +1,10 @@
+{
+  "braceletCategory": "pulseras",
+  "freeShippingThreshold": 150000,
+  "standardShippingCost": 8000,
+  "tiers": [
+    { "minQuantity": 2, "discountPercent": 15, "freeShipping": false },
+    { "minQuantity": 3, "discountPercent": 20, "freeShipping": false },
+    { "minQuantity": 5, "discountPercent": 35, "freeShipping": true }
+  ]
+}

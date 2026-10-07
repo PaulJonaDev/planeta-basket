@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pul-mamba-24",
+    "name": "Pulsera Mamba #24",
+    "category": "pulseras",
+    "price": 18000,
+    "stock": 120,
+    "tags": ["silicona", "alto relieve", "kobe"]
+  },
+  {
+    "id": "pul-answer-3",
+    "name": "Pulsera The Answer #3",
+    "category": "pulseras",
+    "price": 18000,
+    "stock": 100,
+    "tags": ["silicona", "alto relieve", "iverson"]
+  },
+  {
+    "id": "pul-king-23",
+    "name": "Pulsera King #23",
+    "category": "pulseras",
+    "price": 18000,
+    "stock": 95,
+    "tags": ["silicona", "alto relieve", "lebron"]
+  },
+  {
+    "id": "pul-ipromise",
+    "name": "Pulsera I PROMISE",
+    "category": "pulseras",
+    "price": 17000,
+    "stock": 80,
+    "tags": ["silicona", "motivacional"]
+  },
+  {
+    "id": "pul-trenzada-cordon",
+    "name": "Pulsera Trenzada Estilo Cordón",
+    "category": "pulseras",
+    "price": 16000,
+    "stock": 110,
+    "tags": ["trenzada", "cordón"]
+  },
+  {
+    "id": "med-crew-classic",
+    "name": "Medias Crew Basket Classic",
+    "category": "medias",
+    "price": 22000,
+    "stock": 60,
+    "tags": ["medias", "crew"]
+  },
+  {
+    "id": "manga-compresion-pro",
+    "name": "Manga de Compresión Pro",
+    "category": "mangas",
+    "price": 28000,
+    "stock": 50,
+    "tags": ["compresión", "brazo"]
+  },
+  {
+    "id": "headband-baseline",
+    "name": "Cinta para la Cabeza Baseline",
+    "category": "headbands",
+    "price": 12000,
+    "stock": 70,
+    "tags": ["headband", "sudor"]
+  },
+  {
+    "id": "cordones-neon",
+    "name": "Cordones Basket Neón",
+    "category": "cordones",
+    "price": 10000,
+    "stock": 90,
+    "tags": ["cordones", "neón"]
+  },
+  {
+    "id": "llavero-mini-balon",
+    "name": "Llavero Mini Balón",
+    "category": "llaveros",
+    "price": 9000,
+    "stock": 130,
+    "tags": ["llavero", "accesorio"]
+  }
+]

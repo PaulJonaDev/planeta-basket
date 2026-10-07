@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pack-mamba",
+    "name": "Pack Mamba #24",
+    "type": "legend-pack",
+    "description": "2 pulseras Mamba #24 en alto relieve, edición cancha.",
+    "items": [{ "productId": "pul-mamba-24", "quantity": 2 }],
+    "originalPrice": 36000,
+    "price": 30000
+  },
+  {
+    "id": "pack-answer",
+    "name": "Pack Answer #3",
+    "type": "legend-pack",
+    "description": "2 pulseras The Answer #3 inspiradas en Iverson.",
+    "items": [{ "productId": "pul-answer-3", "quantity": 2 }],
+    "originalPrice": 36000,
+    "price": 30000
+  },
+  {
+    "id": "pack-king",
+    "name": "Pack King #23",
+    "type": "legend-pack",
+    "description": "2 pulseras King #23 estilo LeBron.",
+    "items": [{ "productId": "pul-king-23", "quantity": 2 }],
+    "originalPrice": 36000,
+    "price": 30000
+  },
+  {
+    "id": "combo-ready-to-play",
+    "name": "Combo Ready to Play",
+    "type": "cross-category",
+    "description": "1 pulsera + 1 manga de compresión + 1 par de medias crew.",
+    "items": [
+      { "productId": "pul-mamba-24", "quantity": 1 },
+      { "productId": "manga-compresion-pro", "quantity": 1 },
+      { "productId": "med-crew-classic", "quantity": 1 }
+    ],
+    "originalPrice": 68000,
+    "price": 54000
+  }
+]
