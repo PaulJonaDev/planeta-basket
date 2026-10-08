@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useCart } from '../context/CartContext.jsx';
+import logo from '../assets/logo.png';
 
 const NAV_LINKS = [
   { label: 'Inicio', href: '#inicio' },
@@ -15,8 +16,17 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-40 bg-court-black/95 backdrop-blur border-b border-court-line">
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
-        <a href="#inicio" className="font-display text-xl tracking-wide">
-          PLANETA <span className="text-gold">BASKET</span>
+        
+       
+        <a href="#inicio" className="flex items-center gap-2.5">
+          <img 
+            src={logo} 
+            alt="PlanetaBasket" 
+            className="h-10 w-auto md:h-11 object-contain"
+          />
+          <span className="font-display text-xl tracking-wide hidden sm:inline">
+            PLANETA <span className="text-gold">BASKET</span>
+          </span>
         </a>
 
         <nav className="hidden md:flex items-center gap-6 text-sm font-semibold">
