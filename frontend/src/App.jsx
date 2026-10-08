@@ -4,6 +4,8 @@ import HeroBanner from './components/HeroBanner.jsx';
 import BundleBuilder from './components/BundleBuilder.jsx';
 import ProductGrid from './components/ProductGrid.jsx';
 import CartDrawer from './components/CartDrawer.jsx';
+import Footer from './components/Footer.jsx';
+
 
 export default function App() {
   return (
@@ -14,6 +16,7 @@ export default function App() {
           <HeroBanner />
           <BundleBuilder />
           <ProductGrid />
+          <Footer />
         </main>
         <CartDrawer />
       </div>
