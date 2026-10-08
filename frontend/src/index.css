@@ -12,3 +12,13 @@ body {
 ::-webkit-scrollbar-thumb {
   @apply bg-court-line rounded-full;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.container-planeta {
+  @apply max-w-6xl mx-auto px-4;
+}
